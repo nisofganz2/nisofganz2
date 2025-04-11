@@ -36,8 +36,8 @@
 
 ## 📌 Pinned Projects
 
-[![Redzone Tools](https://github-readme-stats.vercel.app/api/pin/?username=nisofganz2&repo=redzone-tools&theme=tokyonight)](https://github.com/nisofganz2/redzone-tools)
-[![Proxy Rotator](https://github-readme-stats.vercel.app/api/pin/?username=nisofganz2&repo=socks-rotator&theme=tokyonight)](https://github.com/nisofganz2/socks-rotator)
+[![Redzone Tools](https://github-readme-stats.vercel.app/api/pin/?username=nisofganz2&repo=redzone-tools&theme=tokyonight)](https://github.com/nisofganz2/filter-domain)
+[![Proxy Rotator](https://github-readme-stats.vercel.app/api/pin/?username=nisofganz2&repo=socks-rotator&theme=tokyonight)](https://github.com/nisofganz2/blast)
 
 ---
 
